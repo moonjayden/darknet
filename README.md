@@ -1,7 +1,6 @@
 ## Soft Robotic Arm Using Vision Sensing(Yolov4) 2021.03~2021.12
 
-![image](https://github.com/moonjayden/darknet/assets/139466574/691923ad-905f-4053-a52e-dfd92239c427){: width="100" height="100"}
-![image](https://github.com/moonjayden/darknet/assets/139466574/ff72b852-46e1-4916-b54e-b651748b814c)![image](https://github.com/moonjayden/darknet/assets/139466574/e1136a5b-71d2-437a-b0fb-395032331694)
+
 
 
 
