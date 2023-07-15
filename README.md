@@ -1,4 +1,5 @@
-## Soft Robotic Arm Using Vision Sensing(Yolov4) 2021.03~2021.12
+# Soft Robotic Arm Using Vision Sensing(Yolov4)
+SKKU, 2021
 
 
 
