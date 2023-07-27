@@ -1,10 +1,10 @@
 # Soft Robotic Arm Using Vision Sensing(Yolov4)
 @SKKU, 2021
 
-## Video
+### Video
+[![Video Label](http://img.youtube.com/vi/vX32BI6-VBU/0.jpg)](https://youtu.be/vX32BI6-VBU)
 
 [![Video Label](http://img.youtube.com/vi/pwNEYv1JBIM/0.jpg)](https://youtu.be/pwNEYv1JBIM)
-
 
 # Yolo v4, v3 and v2 for Windows and Linux
 
